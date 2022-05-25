@@ -1,0 +1,11 @@
+<?php
+$a = [23, 21, 23, 1.23, 54, 233, 1.95, 23,5];
+
+$result = 0;
+foreach ($a as $num){
+    $result += $num;
+}
+echo $result;
+//сума масиву
+    
+?>

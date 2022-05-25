@@ -1,0 +1,10 @@
+<?php
+$age = 60;
+if ($age < 18) {
+    echo 'Сhild!';
+}
+else if($age < 60) {
+    echo 'Adult';
+}
+else echo 'Old';
+?>

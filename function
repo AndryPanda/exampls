@@ -1,0 +1,6 @@
+function sum($a, $b){
+    $c = $a + $b;
+    echo $c;
+}
+sum(34, 5567);
+?>

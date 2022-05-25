@@ -1,0 +1,10 @@
+<?php
+
+$string = "The dollar fell again in morning trade in Europe after European Central Bank President Christine Lagarde chose not to rule out a 50 basis point interest rate hike at the bank's July meeting.";
+
+$arr = explode(' ', $string);
+
+print_r($arr);
+// перетворення строки в масив
+    
+?>
